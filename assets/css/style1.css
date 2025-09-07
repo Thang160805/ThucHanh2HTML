@@ -1,0 +1,26 @@
+header {
+    background-color: #0091be;
+}
+
+.container {
+    display: flex;
+}
+
+.img {
+    width: 300px;
+    height: 200px;
+    margin-left: 60px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    text-align: left;
+}
